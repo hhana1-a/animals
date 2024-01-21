@@ -1,9 +1,9 @@
 # animals
 
 
-* [Cat](./cat.html)
-* [Dog](./dog.html)
-* [Wolf](.wolf.html)
+* [Cat](./cat.md)
+* [Dog](./dog.md)
+* [Wolf](.wolf.md)
 * [Penguin](./penguin.md)
 
 
